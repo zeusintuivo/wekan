@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#!/bin/bash
+#
+cd ..
+
+./rebuild-wekan.sh<<<"3
+
+
+"
