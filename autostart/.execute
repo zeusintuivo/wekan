@@ -3,6 +3,7 @@
 #
 cd ..
 exit 0
+
 ./rebuild-wekan.sh<<<"3
 
 
