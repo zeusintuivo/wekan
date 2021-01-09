@@ -1,0 +1,122 @@
+{
+  "_format": "wekan-board-1.0.0",
+  "_id": "7NWGtHpi4xWBfWuT3",
+  "archived": false,
+  "color": "pumpkin",
+  "createdAt": "2020-12-16T19:26:13.846Z",
+  "labels": [],
+  "members": [
+    {
+      "userId": "McC7SRJbsf7WNdtdJ",
+      "isActive": true,
+      "isAdmin": true,
+      "isNoComments": false,
+      "isCommentOnly": false
+    }
+  ],
+  "modifiedAt": "2020-12-16T19:59:08.958Z",
+  "permission": "private",
+  "slug": "ubemax",
+  "title": "ubemax",
+  "subtasksDefaultBoardId": null,
+  "subtasksDefaultListId": null,
+  "dateSettingsDefaultBoardId": null,
+  "dateSettingsDefaultListId": null,
+  "allowsSubtasks": true,
+  "allowsAttachments": true,
+  "allowsChecklists": true,
+  "allowsComments": true,
+  "allowsDescriptionTitle": true,
+  "allowsDescriptionText": true,
+  "allowsActivities": true,
+  "allowsLabels": true,
+  "allowsAssignee": true,
+  "allowsMembers": true,
+  "allowsRequestedBy": true,
+  "allowsAssignedBy": true,
+  "allowsReceivedDate": true,
+  "allowsStartDate": true,
+  "allowsEndDate": true,
+  "allowsDueDate": true,
+  "presentParentTask": "no-parent",
+  "isOvertime": false,
+  "type": "board",
+  "sort": -1,
+  "cards": [],
+  "lists": [
+    {
+      "_id": "ohfz6JjRME5fuB3ak",
+      "archived": false,
+      "createdAt": "2020-12-16T19:26:13.864Z",
+      "title": "ATRASADOS",
+      "starred": false,
+      "swimlaneId": "",
+      "updatedAt": "2020-12-16T19:26:13.877Z",
+      "modifiedAt": "2020-12-16T19:26:13.877Z",
+      "wipLimit": {
+        "value": 1,
+        "enabled": false,
+        "soft": false
+      },
+      "type": "list",
+      "sort": 1
+    },
+    {
+      "_id": "CeRepNsHFC9qrpWCo",
+      "archived": false,
+      "createdAt": "2020-12-16T19:26:13.881Z",
+      "title": "PENDIENTES",
+      "starred": false,
+      "swimlaneId": "",
+      "updatedAt": "2020-12-16T19:26:13.883Z",
+      "modifiedAt": "2020-12-16T19:26:13.883Z",
+      "wipLimit": {
+        "value": 1,
+        "enabled": false,
+        "soft": false
+      },
+      "type": "list",
+      "sort": 2
+    }
+  ],
+  "swimlanes": [
+    {
+      "_id": "uiPfEC8pf9jRsEjAW",
+      "archived": false,
+      "createdAt": "2020-12-16T19:26:13.886Z",
+      "title": "Default",
+      "sort": 1,
+      "updatedAt": "2020-12-16T19:26:13.888Z",
+      "modifiedAt": "2020-12-16T19:26:13.888Z",
+      "type": "swimlane"
+    }
+  ],
+  "activities": [
+    {
+      "_id": "WL7yJu82Yb2BHZSBf",
+      "activityType": "importBoard",
+      "createdAt": "2020-12-16T19:26:13.843Z",
+      "source": {
+        "id": "7NWGtHpi4xWBfWuT3",
+        "system": "CSV/TSV"
+      },
+      "userId": "McC7SRJbsf7WNdtdJ"
+    }
+  ],
+  "customFields": [],
+  "comments": [],
+  "rules": [],
+  "checklists": [],
+  "checklistItems": [],
+  "subtaskItems": [],
+  "triggers": [],
+  "actions": [],
+  "attachments": [],
+  "users": [
+    {
+      "_id": "McC7SRJbsf7WNdtdJ",
+      "username": "zeus",
+      "profile": {}
+    }
+  ]
+}
