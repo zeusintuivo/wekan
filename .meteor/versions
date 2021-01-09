@@ -133,7 +133,7 @@ observe-sequence@1.0.16
 ongoworks:speakingurl@1.1.0
 ordered-dict@1.1.0
 peerlibrary:assert@0.3.0
-peerlibrary:base-component@0.16.0
+peerlibrary:base-component@0.17.1
 peerlibrary:blaze-components@0.15.1
 peerlibrary:computed-field@0.10.0
 peerlibrary:reactive-field@0.6.0
